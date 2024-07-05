@@ -1,0 +1,9 @@
+com/example/demo/service/FileServiceTest.class
+com/example/demo/DemoApplicationTests$1.class
+com/example/demo/DemoApplicationTests.class
+com/example/demo/service/DBLoggerServiceTest.class
+com/example/demo/validation/ISPValidationRuleTest.class
+com/example/demo/service/IPValidatorServiceTest.class
+com/example/demo/validation/CountryValidationRuleTest.class
+com/example/demo/DemoApplicationDisabledValidationTest.class
+com/example/demo/service/IPValidatorServiceDEsabledFlagTest.class

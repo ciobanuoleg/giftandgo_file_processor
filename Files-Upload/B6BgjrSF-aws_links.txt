@@ -1,0 +1,6 @@
+
+links for aws:
+
+https://aws.amazon.com/certification/certified-developer-associate/
+
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/14723/exam-prep-aws-certified-developer-associate-dva-c02-with-practice-material
